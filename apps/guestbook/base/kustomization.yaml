@@ -15,4 +15,4 @@ resources:
 images:
   - name: guestbook
     newName: ghcr.io/mangousteenfeu/guestbook-gitops
-    newTag: main-405aed4
+    newTag: main-5015ef1
